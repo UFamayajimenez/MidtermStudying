@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/amayajimenez/CLionProjects/MidtermStudying/constPointers.cpp
+
+/Users/amayajimenez/CLionProjects/MidtermStudying/main.cpp
+iostream
+-
+
